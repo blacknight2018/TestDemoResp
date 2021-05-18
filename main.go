@@ -9,6 +9,5 @@ func Add(a int, b int) int {
 }
 
 func main() {
-	fmt.Println("FuckWorld,2021-3-23 13:06 bybyte-cn 2333")
-}
+	fmt.Println("HelloWorld,2021-3-23 13:06 bybyte-cn 2333")}
 
